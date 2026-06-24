@@ -1,0 +1,7 @@
+name: Performer Header Banner
+description: Displays a row of random scene screenshots at the top of performer pages.
+version: 1.0.0
+
+ui:
+  javascript:
+    - performer-headers.js

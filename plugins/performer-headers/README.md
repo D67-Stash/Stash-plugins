@@ -1,14 +1,17 @@
-Performer Headers v1.0.0
+# Performer Headers
 
-Adds a row of randomly selected performer scene screenshots
-to performer pages.
+Performer Headers adds a row of random scene screenshots to performer pages.
 
-Features:
-- Diverse screenshot selection
+## Features
+
+- Random performer screenshots
+- Fast caching
 - Scene title overlays
 - Clickable scene navigation
-- Smart caching
-- Optimized for large libraries
-- Fast tab switching
+- Works across performer tabs
 
-Compatible with Stash v0.31.x+
+## Install instructions
+
+1. Download performer-headers folder
+2. Copy into Stash/plugins/
+3. Reload Plugins
