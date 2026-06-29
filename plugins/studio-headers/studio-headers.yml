@@ -1,0 +1,16 @@
+name: Studio Headers
+description: Displays a row of scene screenshots at the top of studio pages.
+version: 1.0.0
+url: ""
+ui:
+  javascript:
+    - studio-headers.js
+settings:
+  sortOrder:
+    displayName: Image Order
+    description: "Controls which scenes appear in the header. Options: random, newest, date"
+    type: STRING
+  includeSubStudios:
+    displayName: Include Sub-Studios
+    description: "Include scenes from sub-studios in the header. Options: true, false"
+    type: STRING
